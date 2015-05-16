@@ -1,0 +1,18 @@
+Exec=bash -c 'LD_PRELOAD=/usr/lib/libsublime-imfix.so /opt/sublime_text/sublime_text' %F
+
+http://bbs.chinahtml.com/t319624/
+
+
+/opt/sublime_text/sublime_text -n
+/opt/sublime_text/sublime_text --command new_file
+
+
+
+#!/bin/sh
+
+#export LD_PRELOAD=/usr/lib/libsublime-imfix.so
+#exec /opt/sublime_text/sublime_text "$@"  
+#
+exec bash -c "LD_PRELOAD=/usr/lib/libsublime-imfix.so /opt/sublime_text/sublime_text '$@'"
+
+

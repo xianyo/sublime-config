@@ -1,0 +1,25 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"FileDiffs",
+		"Git",
+		"GitGutter",
+		"InsertDate",
+		"Markdown Extended",
+		"Markdown Preview",
+		"Modific",
+		"Monokai Extended",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeAStyleFormatter",
+		"SublimeLinter",
+		"Terminal"
+	]
+}
