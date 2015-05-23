@@ -1,10 +1,8 @@
 {
 	"auto_complete": false,
 	"color_scheme": "Packages/User/SublimeLinter/Monokai Extended Bright (SL).tmTheme",
-	"font_size": 10.0,
-	"show_minimap": false,  
-    "tab_size": 4, 
 	"create_window_at_startup": false,
+	"font_size": 10.0,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
@@ -12,5 +10,7 @@
 	"open_files_in_new_window": false,
 	"remember_open_files": false,
 	"show_encoding": true,
+	"show_minimap": false,
+	"tab_size": 4,
 	"translate_tabs_to_spaces": true
 }
