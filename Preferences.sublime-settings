@@ -2,7 +2,7 @@
 	"auto_complete": false,
 	"color_scheme": "Packages/User/SublimeLinter/Monokai Extended Bright (SL).tmTheme",
 	"create_window_at_startup": false,
-	"font_size": 10.0,
+	"font_size": 10,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
