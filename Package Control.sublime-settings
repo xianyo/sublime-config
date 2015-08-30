@@ -4,11 +4,16 @@
 	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"Alignment",
+		"Anaconda",
 		"BracketHighlighter",
 		"Codecs33",
 		"ConvertToUTF8",
+		"Djaneiro",
+		"Django Manage Commands",
 		"DocBlockr",
+		"Emmet",
 		"FileDiffs",
 		"Git",
 		"GitGutter",
@@ -19,9 +24,11 @@
 		"Modific",
 		"Monokai Extended",
 		"Package Control",
+		"PySide",
 		"SideBarEnhancements",
 		"SublimeAStyleFormatter",
 		"SublimeLinter",
+		"SublimeREPL",
 		"Sublimerge Pro",
 		"Terminal"
 	]
