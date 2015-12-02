@@ -1,12 +1,14 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"IMESupport"
 	],
 	"installed_packages":
 	[
+		"AceJump",
 		"AdvancedNewFile",
 		"Alignment",
-		"Anaconda",
 		"Bootstrap 3 Snippets",
 		"BracketHighlighter",
 		"C Improved",
@@ -19,7 +21,6 @@
 		"CSS Format",
 		"CTags",
 		"Djaneiro",
-		"Django Manage Commands",
 		"DocBlockr",
 		"Emmet",
 		"FileDiffs",
@@ -35,6 +36,7 @@
 		"Modific",
 		"Monokai Extended",
 		"Package Control",
+		"Pretty JSON",
 		"PySide",
 		"SideBarEnhancements",
 		"SublimeAStyleFormatter",
